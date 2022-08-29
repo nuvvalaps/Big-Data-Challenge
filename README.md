@@ -1,17 +1,5 @@
 # Unit 22 Homework: “Alexa, Can You Handle Big Data?”
 
-## Before You Begin
-
-1. Create a new repository for this project called `big-data-challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local git repository, create a directory for the level of challenge that you choose. Use folder names corresponding to the challenges: level-1 or level-2.
-
-4. Download a Google Colab Notebook as a `ipynb` file and add it to this folder. This will be the main script to run for analysis. Be sure to also add any SQL queries that you used to a `.sql` file and then add it to your repo.
-
-5. Push the above changes to GitHub or GitLab.
-
 
 ## Background
 
@@ -111,10 +99,6 @@ findspark.init()
 * **Important:** Do not upload notebooks that contain your RDS password and endpoint. Delete these two items before making your notebook public!
 
 * Ensure your repository has regular commits and a thorough README.md file
-
-## Rubric
-
-[Unit 22 Homework Rubric](https://docs.google.com/document/d/1H-TBgBUz1jVGG1zvo046GraApmbepVZgYionh-4mNas/edit?usp=sharing)
 
 - - -
 
